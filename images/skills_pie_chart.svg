@@ -1,0 +1,15 @@
+<svg width="400" height="400" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg" class="donut">
+  <circle class="donut-hole" cx="21" cy="21" r="15.9155" fill="#fff"></circle>
+  <circle class="donut-ring" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#d2d3d4" stroke-width="3"></circle>
+
+  <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#4caf50" stroke-width="3" stroke-dasharray="56 44" stroke-dashoffset="25"></circle> <!-- Python 90% -->
+  <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#2196f3" stroke-width="3" stroke-dasharray="53 47" stroke-dashoffset="69"></circle> <!-- Validation 85% -->
+  <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#ff9800" stroke-width="3" stroke-dasharray="53 47" stroke-dashoffset="122"></circle> <!-- Automation 85% -->
+  <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#9c27b0" stroke-width="3" stroke-dasharray="38 62" stroke-dashoffset="175"></circle> <!-- Data Science 60% -->
+  <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#f44336" stroke-width="3" stroke-dasharray="32 68" stroke-dashoffset="213"></circle> <!-- Data Eng 50% -->
+  <circle class="donut-segment" cx="21" cy="21" r="15.9155" fill="transparent" stroke="#607d8b" stroke-width="3" stroke-dasharray="16 84" stroke-dashoffset="249"></circle> <!-- Cloud 25% -->
+
+  <g class="chart-text">
+    <text x="21" y="20" class="chart-number" text-anchor="middle" dominant-baseline="central" font-size="5" fill="#000">Skills</text>
+  </g>
+</svg>
